@@ -1,0 +1,3 @@
+1º - mvn compile quarkus:dev
+2º - (IntelliJ) click in: -> run, -> attach to process
+3º - Debug =)
